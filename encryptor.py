@@ -39,6 +39,9 @@ def encrypt(plaintext, key):
 
     return cyphertext
 
-    # ! Test if the function works.
-    encrypt('Encrypts', 20)
-    print(cyphertext)
+#     # * Comment the return line and nncomment bellow
+#     # * if you need to print the result.
+#     print(cyphertext)
+
+#     # ! Test if the function works.
+# encrypt('This text here is for encrypting.', 20)
