@@ -39,7 +39,7 @@ def encrypt(plaintext, key):
 
     return cyphertext
 
-#     # * Comment the return line and nncomment bellow
+#     # * Comment the return line and uncomment bellow
 #     # * if you need to print the result.
 #     print(cyphertext)
 
